@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Home One</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_firstName">First Name</string>
+    <string name="te_nameFirstHint">eg. Anchit</string>
+    <string name="te_nameLastHint">eg. Gupta</string>
+    <string name="tv_lastName">Last Name</string>
+    <string name="bt_name">Next</string>
+
+    <string name="tv_address">Address</string>
+    <string name="tv_house">House Number</string>
+    <string name="te_house">eg. A-178</string>
+    <string name="tv_street">Street</string>
+    <string name="te_street">eg. GT Road</string>
+    <string name="tv_city">City</string>
+    <string name="te_city">eg. New Delhi</string>
+    <string name="bt_address">Next</string>
+
+
+    <string name="tv_other">Other Information</string>
+    <string name="tv_roll">Roll Number</string>
+    <string name="te_roll">eg. MT19429</string>
+    <string name="tv_email">Email</string>
+    <string name="te_email">eg. april@abc.com</string>
+    <string name="bt_other">Next</string>
+
+
+</resources>
