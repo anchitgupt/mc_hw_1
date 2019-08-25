@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Home One</string>
+    <string name="app_name">Student Detail</string>
     <string name="tv_name">Name</string>
     <string name="tv_firstName">First Name</string>
     <string name="te_nameFirstHint">eg. Anchit</string>
@@ -24,5 +24,7 @@
     <string name="te_email">eg. april@abc.com</string>
     <string name="bt_other">Next</string>
 
-
+    <string name="bt_share">SHARE</string>
+    <string name="sharingText">"Choose App To Share"</string>
+    <string name="bt_start">START</string>
 </resources>

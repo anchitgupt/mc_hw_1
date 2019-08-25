@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+
+<ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
     android:padding="14dp"
     android:orientation="vertical"
+    android:isScrollContainer="true"
     tools:context=".SecondActivity">
 
 
@@ -87,6 +93,7 @@
         android:padding="5dp"
         android:singleLine="true"
         android:textSize="18sp"
+        android:digits="qwertzuiopasdfghjklyxcvbnm,QWERTYUIOPASDFGHJKLZXCVBNM"
         android:hint="@string/te_city"
         android:inputType="textCapWords" />
 
@@ -100,3 +107,4 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </LinearLayout>
+</ScrollView>
